@@ -1,0 +1,1 @@
+A simple webpage with a blur effect made with HTML & CSS.
